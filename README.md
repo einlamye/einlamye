@@ -1,3 +1,4 @@
+```
 mimikatz # coffee
 
     ( (
@@ -6,3 +7,4 @@ mimikatz # coffee
   |      |]
   \      /
    `----'
+```
