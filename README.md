@@ -1,1 +1,8 @@
-knock, knock, Neo.
+mimikatz # coffee
+
+    ( (
+     ) )
+  .______.
+  |      |]
+  \      /
+   `----'
